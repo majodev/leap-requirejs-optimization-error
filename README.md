@@ -7,6 +7,10 @@ It seems like <a href="https://github.com/leapmotion/leapjs">leapjs</a> and <a h
 <h2>Building</h2>
 <pre>node scripts/build.js</pre>
 
+<h2>Links</h2>
+<a href="https://github.com/leapmotion/leapjs/issues/97">r.js issue ticket</a>
+<a href="https://github.com/jrburke/r.js/issues/514">leapjs issue ticket</a>
+
 <h2>Copyright</h2>
 MIT license - see LICENSE.md for further information -
 (c) 2013 Mario Ranftl (<a href="http://www.majodev.com">majodev</a>).
