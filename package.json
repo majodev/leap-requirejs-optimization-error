@@ -1,5 +1,6 @@
 {
   "name": "leap-requirejs-optimization-error",
+  "description": "build errors with r.js and leapjs",
   "version": "0.0.1",
   "dependencies": {
     "leapjs": "~0.2.0",
