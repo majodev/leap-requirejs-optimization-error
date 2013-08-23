@@ -7,14 +7,7 @@ var pjson = JSON.parse(fs.readFileSync(path.resolve(__dirname, "../package.json"
 // Configure RequireJS
 var config = {
   baseUrl: "src/",
-  paths: {
-    "Leap": "../node_modules/leapjs/leap"
-  },
-  shim: {
-    "Leap": {
-      exports: "Leap"
-    }
-  },
+  mainConfigFile: "scripts/main.js",
   optimize: "none",
   name: "issue", // Name of script to start building from
   insertRequire: ["issue"],
