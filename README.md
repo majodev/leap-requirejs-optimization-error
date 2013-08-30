@@ -8,10 +8,12 @@ UPDATE: Finally resolved. Please visit <a href="https://github.com/jrburke/r.js/
 
 <h2>Building</h2>
 optimizing leap.js the right way: `node scripts/build-right.js`
+
 optimizing leap.js the wrong way: `node scripts/build-wrong.js`
 
 <h2>Links</h2>
 <a href="https://github.com/leapmotion/leapjs/issues/97">r.js issue ticket</a>
+
 <a href="https://github.com/jrburke/r.js/issues/514">leapjs issue ticket</a>
 
 <h2>Copyright</h2>
